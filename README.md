@@ -20,6 +20,13 @@ Diementions table :
 
 # 3. Data Cleanning and Exploration : 
 
+cleannd the data base on the mean , mode and mediun concept, also some of missing data rows are skip for the analysis. also perform the different joints on the dataset and explore the insights. 
+analysis each dataset and perform the analyssi with different categories of application of hotel like city, hotelroom, etc
+
 # 4. Data Transformation : 
+connected all datset and perform different analysis to get the all information base on categoried. 
+add new columns for the analysis to calculate the % of the valus and relationships with other datasets 
 
 # 5. Data analysis and presentation : 
+Finaly analysis ech categories base on city, hotel type, ocupacy, room quality, booking, plot the gragh and analysis the re[port 
+
